@@ -1,0 +1,374 @@
+1.Dlink 615 T2 - AssociateDevice response not found in Excel sheet.
+2.Nokia ONT - HostName is not found in AssociateDevice response.
+3.We need username for all router models for testing purpose.
+
+
+Nokia ONT Response:
+
+{
+    "Parameters": [
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.1.",
+            "Value": "",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.1.Active",
+            "Value": "",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.1.AssociatedDeviceAuthenticationState",
+            "Value": "true",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.1.AssociatedDeviceIPAddress",
+            "Value": "192.168.0.5",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.1.AssociatedDeviceMACAddress",
+            "Value": "1c:1b:b5:f6:a9:8c",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.1.AuthenticationState",
+            "Value": "",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.1.IPAddress",
+            "Value": "192.168.0.5",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.1.LastDataDownlinkRate",
+            "Value": "144400",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.1.LastDataTransmitRate",
+            "Value": "",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.1.LastDataUplinkRate",
+            "Value": "48000",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.1.LastPMKId",
+            "Value": "",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.1.LastRequestedMulticastCipher",
+            "Value": "",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.1.LastRequestedUnicastCipher",
+            "Value": "",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.1.MACAddress",
+            "Value": "1c:1b:b5:f6:a9:8c",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.1.OperatingStandard",
+            "Value": "ax",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.1.Retransmissions",
+            "Value": "0",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.1.RSSI",
+            "Value": "3",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.1.SignalStrength",
+            "Value": "-60",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.1.Stats.",
+            "Value": "",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.1.Stats.BytesReceived",
+            "Value": "216003",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.1.Stats.BytesSent",
+            "Value": "241316",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.1.Stats.ErrorsReceived",
+            "Value": "0",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.1.Stats.ErrorsSent",
+            "Value": "0",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.1.Stats.FailedRetransCount",
+            "Value": "0",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.1.Stats.MultipleRetryCount",
+            "Value": "0",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.1.Stats.PacketsReceived",
+            "Value": "922",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.1.Stats.PacketsSent",
+            "Value": "811",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.1.Stats.RetransCount",
+            "Value": "0",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.1.Stats.RetryCount",
+            "Value": "0",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.AssociatedDevice.1.X_ALU-COM_SNR",
+            "Value": "0",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+
+         {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.AssociatedDevice.1.",
+            "Value": "",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.AssociatedDevice.1.Active",
+            "Value": "",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.AssociatedDevice.1.AssociatedDeviceAuthenticationState",
+            "Value": "true",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.AssociatedDevice.1.AssociatedDeviceIPAddress",
+            "Value": "fe80::22a6:cff:fe9c:74fa",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.AssociatedDevice.1.AssociatedDeviceMACAddress",
+            "Value": "20:a6:0c:9c:74:fa",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.AssociatedDevice.1.AuthenticationState",
+            "Value": "",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.AssociatedDevice.1.IPAddress",
+            "Value": "fe80::22a6:cff:fe9c:74fa",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.AssociatedDevice.1.LastDataDownlinkRate",
+            "Value": "150000",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.AssociatedDevice.1.LastDataTransmitRate",
+            "Value": "",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.AssociatedDevice.1.LastDataUplinkRate",
+            "Value": "150000",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.AssociatedDevice.1.LastPMKId",
+            "Value": "",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.AssociatedDevice.1.LastRequestedMulticastCipher",
+            "Value": "",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.AssociatedDevice.1.LastRequestedUnicastCipher",
+            "Value": "",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.AssociatedDevice.1.MACAddress",
+            "Value": "20:a6:0c:9c:74:fa",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.AssociatedDevice.1.OperatingStandard",
+            "Value": "n",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.AssociatedDevice.1.Retransmissions",
+            "Value": "0",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.AssociatedDevice.1.RSSI",
+            "Value": "3",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.AssociatedDevice.1.SignalStrength",
+            "Value": "-53",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.AssociatedDevice.1.Stats.",
+            "Value": "",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.AssociatedDevice.1.Stats.BytesReceived",
+            "Value": "25731477",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.AssociatedDevice.1.Stats.BytesSent",
+            "Value": "1616860617",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.AssociatedDevice.1.Stats.ErrorsReceived",
+            "Value": "0",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.AssociatedDevice.1.Stats.ErrorsSent",
+            "Value": "0",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.AssociatedDevice.1.Stats.FailedRetransCount",
+            "Value": "0",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.AssociatedDevice.1.Stats.MultipleRetryCount",
+            "Value": "0",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.AssociatedDevice.1.Stats.PacketsReceived",
+            "Value": "151258",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.AssociatedDevice.1.Stats.PacketsSent",
+            "Value": "4725499",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.AssociatedDevice.1.Stats.RetransCount",
+            "Value": "0",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.AssociatedDevice.1.Stats.RetryCount",
+            "Value": "0",
+            "ErrorCode": 100,
+            "Message": ""
+        },
+        {
+            "Name": "InternetGatewayDevice.LANDevice.1.WLANConfiguration.5.AssociatedDevice.1.X_ALU-COM_SNR",
+            "Value": "0",
+            "ErrorCode": 100,
+            "Message": ""
+        }
+    ],
+      "ErrorCode": 100,
+    "Message": ""
+}
